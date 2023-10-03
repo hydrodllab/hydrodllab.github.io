@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "home"
+title: "About Hydro DL Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
