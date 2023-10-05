@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dr. Alex Sun"
   avatar           : "profile.png"
-  bio              : "Senior Research Scientist at UT Austin"
+  bio              : "Research Professor at UT Austin"
   location         : "Austin, TX"
-  employer         : #"https://www.beg.utexas.edu/people/alex-sun"
+  employer         : "https://www.beg.utexas.edu/people/alex-sun"
   googlescholar    : "https://scholar.google.com/citations?user=NfjnpFYAAAAJ&hl=en&oi=sra"
   email            : "alex.sun AT beg.utexas.edu"
   uri              :
