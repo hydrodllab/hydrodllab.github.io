@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Monthly streamflow forecasting using Gaussian process regression"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'In this work, we applied Gaussian Process Regression (GPR), an effective kernel-based machine learning algorithm, to probabilistic streamflow forecasting.'
+date: 2014-04-16
+venue: 'Journal of Hydrology'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Sun, A. Y., Wang, D., & Xu, X. (2014). Monthly streamflow forecasting using Gaussian process regression. <i>Journal of Hydrology</i>, 511, 72-81.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this work, we applied Gaussian Process Regression (GPR), an effective kernel-based machine learning algorithm, to probabilistic streamflow forecasting.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0022169414000298)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Sun, A. Y., Wang, D., & Xu, X. (2014). Monthly streamflow forecasting using Gaussian process regression. <i>Journal of Hydrology</i>, 511, 72-81.
