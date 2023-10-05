@@ -36,7 +36,7 @@ Exciting problems that we are working on
 
 Recent Projects
 ======
-1. [Exasheds Project](https://exasheds.org), funded by U.S. Department of Energy, Biological and Environmental Research.
-1. Development of a GRACE-enhanced flood monitoring and forecasting tool using a five-day grace product and physics-based data analytics (funded by U.S. NASA) 
-1. MuSiKAL: A Distributed Framework for Bridging Multiphysics Simulation and Knowledge Discovery Through AI/ML: With Applications to Coastal Hazard Prediction, funded by the Department of Energy, Advanced Computing Research Program. 
+1. [Exasheds Project](https://exasheds.org) (funded by U.S. Department of Energy, Biological and Environmental Research).
+1. Development of a GRACE-enhanced flood monitoring and forecasting tool using a five-day grace product and physics-based data analytics (funded by U.S. NASA).
+1. MuSiKAL: A Distributed Framework for Bridging Multiphysics Simulation and Knowledge Discovery Through AI/ML: With Applications to Coastal Hazard Prediction (funded by the Department of Energy, Advanced Scientific Computing Research). 
 
