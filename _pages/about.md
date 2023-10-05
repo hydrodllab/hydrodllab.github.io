@@ -18,14 +18,17 @@ Exciting problems that we are working on
 
   We use graph neural network (GNN) workflows to model river networks. We developed algorithms to combine National Water Model (NWM) and in situ streamflow observations.
    <br/><img src='/images/gnn_workflow.png'>
+   
 * **Hydrogravimetry (GRACE and GRACE-FO satellites) using AI**
 
   We use convolutional neural network (CNN) algorithms for gap filling GRACE satellite data
-    <br/><img src='/images/grace_workflow.png',  width="100" height="300">
+    <br/><img src='/images/grace_workflow.png',  width='100', height='300'>
+  
 * **Urban flood inundation mapping using Fourier Neural Operator**
 
   We develoloped a DL workflow for forecasting flood inundation extent/depth.
    <br/><img src='/images/iccv_fig2.png'>
+   
 * **Risk of energy transition and carbon emission efforts on the environment**
 
   We used to DL to perform both surrogate modeling and cross-domain inversion.
