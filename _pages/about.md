@@ -21,7 +21,7 @@ Exciting problems that we are working on
 * **Hydrogravimetry (GRACE and GRACE-FO satellites) using AI**
 
   We use convolutional neural network (CNN) algorithms for gap filling GRACE satellite data
-    <br/><img src='/images/grace_workflow.png', , width="100" height="300">
+    <br/><img src='/images/grace_workflow.png',  width="100" height="300">
 * **Urban flood inundation mapping using Fourier Neural Operator**
 
   We develoloped a DL workflow for forecasting flood inundation extent/depth.
