@@ -18,19 +18,20 @@ Education
 Work experience
 ======
 * 2011--Present: Research Professor (UT Austin)
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Developed machine-learning algorithms to advance the monitoring, accounting and verification techniques for geological carbon storage
+  *	Developed a coastal digital twin funded under DOE’s Advanced Scientific Computing Research Program
+  * Developed AI/ML techniques for watershed modeling
+  * Designed and developed web-based GIS systems for modeling and permitting public water supply systems
 
 * 2003--2007: Principle Research Scientist (Southwest Research Institute)
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Developed algorithms for identifying groundwater contaminant sources
+  * Developed methods for inversion using GRACE satellite data
   
 Skills
 ======
 * Python (xarray, pytorch, pylightning, kerras, geopandas)
 * Matlab
+* R
 * Fortran, C
 
 Publications
