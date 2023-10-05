@@ -13,14 +13,22 @@ What we do?
 ======
 Ongoing climate change and anthropogenic activities have imposed signficant challenges on hydroclimatic forecasting at all ranges. The deluge of Earth observation (EO) data adds another layer of complexity. At Hydro Deep Learning Lab, we aim to develop, adapt, and test deep learning algorithms to tackle some of these challenges. 
 
-Major research areas that we are working on
-1. Hydrometerological forecasting using AI/ML
+Exciting problems that we are working on
+* **Hydrometerological forecasting using AI/ML**
+
+  We use graph neural network (GNN) workflows to model river networks. We developed algorithms to combine National Water Model (NWM) and in situ streamflow observations.
    <br/><img src='/images/gnn_workflow.png'>
-1. Hydrogravimetry (GRACE and GRACE-FO satellites) using AI
-   <br/><img src='/images/grace_workflow.png'>
-1. Urban flood inundation mapping using Fourier Neural Operator
+* **Hydrogravimetry (GRACE and GRACE-FO satellites) using AI**
+
+  We use convolutional neural network (CNN) algorithms for gap filling GRACE satellite data
+    <br/><img src='/images/grace_workflow.png', , width="100" height="300">
+* **Urban flood inundation mapping using Fourier Neural Operator**
+
+  We develoloped a DL workflow for forecasting flood inundation extent/depth.
    <br/><img src='/images/iccv_fig2.png'>
-1. Risk of energy transition and carbon emission efforts on the environment
+* **Risk of energy transition and carbon emission efforts on the environment**
+
+  We used to DL to perform both surrogate modeling and cross-domain inversion.
    <br/><img src='/images/co2_seismic_plume.png'>
 
 Recent Projects
