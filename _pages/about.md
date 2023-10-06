@@ -13,7 +13,7 @@ What we do?
 ======
 Ongoing climate change and anthropogenic activities have imposed signficant challenges on hydroclimatic forecasting at all ranges. The deluge of Earth observation (EO) data adds another layer of complexity. At Hydro Deep Learning Lab, we aim to develop, adapt, and test deep learning algorithms to tackle some of these challenges. 
 
-## Here is a sample of exciting problems we are working 
+## Here is a sample of exciting problems we are working on
 
 * **Hydrometeorological nowcasting and forecasting using AI/ML**
 
@@ -30,7 +30,7 @@ Ongoing climate change and anthropogenic activities have imposed signficant chal
   We are developing DL-based workflows for forecasting flood inundation extent/depth.
    <br/><img src='/images/iccv_fig2.png'>
    
-* **Risk of energy transition and carbon emission efforts on the environment**
+* **Risk assessment of the carbon emission reduction activities on the environment**
 
   We used to DL to perform both surrogate modeling and cross-domain inversion.
    <br/><img src='/images/co2_seismic_plume.png'>
