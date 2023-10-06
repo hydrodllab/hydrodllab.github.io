@@ -13,7 +13,8 @@ What we do?
 ======
 Ongoing climate change and anthropogenic activities have imposed signficant challenges on hydroclimatic forecasting at all ranges. The deluge of Earth observation (EO) data adds another layer of complexity. At Hydro Deep Learning Lab, we aim to develop, adapt, and test deep learning algorithms to tackle some of these challenges. 
 
-Exciting problems that we are working on
+## Here is a sample of exciting problems we are working 
+
 * **Hydrometerological forecasting using AI/ML**
 
   We use graph neural network (GNN) workflows to model river networks. We developed algorithms to combine National Water Model (NWM) and in situ streamflow observations.
