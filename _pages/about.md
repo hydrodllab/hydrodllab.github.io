@@ -18,22 +18,26 @@ Ongoing climate change and anthropogenic activities have imposed signficant chal
 * **Hydrometeorological nowcasting and forecasting using AI/ML**
 
   We use graph neural network (GNN) workflows to model river networks. We have developed algorithms to combine National Water Model (NWM) and in situ streamflow observations.
+
    <br/><img src='/images/gnn_workflow.png'>
    
 * **Hydrogravimetry (GRACE and GRACE-FO satellites) using AI**
 
   We use convolutional neural network (CNN) algorithms for gap filling GRACE satellite data and for bias correcting global hydro models.
-    <br/><img src='/images/grace_workflow.png' width='400'>
+
+   <br/><img src='/images/grace_workflow.png' width='400'>
     
   
 * **Urban flood inundation mapping using Fourier Neural Operator**
 
   We are developing DL-based workflows for forecasting flood inundation extent/depth.
+
    <br/><img src='/images/iccv_fig2.png'>
    
 * **Risk assessment of the carbon emission reduction activities on the environment**
 
   We used to DL to perform both surrogate modeling and cross-domain inversion.
+
    <br/><img src='/images/co2_seismic_plume.png'>
 
 Recent Projects
