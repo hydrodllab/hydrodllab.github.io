@@ -23,7 +23,8 @@ Ongoing climate change and anthropogenic activities have imposed signficant chal
 * **Hydrogravimetry (GRACE and GRACE-FO satellites) using AI**
 
   We use convolutional neural network (CNN) algorithms for gap filling GRACE satellite data and for bias correcting global hydro models.
-    <br/><img src='/images/grace_workflow.png'>
+    <br/><img src='/images/grace_workflow.png' width='250'>
+    
   
 * **Urban flood inundation mapping using Fourier Neural Operator**
 
